@@ -1,5 +1,5 @@
 /* To utilize a google font, place the font url's here at the top of this css file as seen here*/
-@import url('http://fonts.googleapis.com/css?family=Arvo');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
 
 body {
 	font: arial,helvetica,sans-serif;
@@ -20,7 +20,7 @@ a:hover {
 
 h1, h2, h3, h4 {
 	font-weight:normal;
-	font-family:'Arvo', arial, serif;
+	font-family:'Cormorant+Garamond:wght@300', arial, serif;
 	margin-bottom:15px;
 	}
 	
